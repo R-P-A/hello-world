@@ -1,1 +1,3 @@
-new file for testing branches
+first commit - new file for testing branches
+
+second commit
