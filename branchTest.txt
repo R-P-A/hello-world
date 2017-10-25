@@ -1,9 +1,1 @@
-first commit - new file for testing branches
-
-second commit
-
-third commit
-
-one more commit
-
-one more before push
+new branch test
