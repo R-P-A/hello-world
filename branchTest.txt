@@ -1,2 +1,3 @@
 new branch test
 a new feature in the develop branch
+another commit in newFeature branch
