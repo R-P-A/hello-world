@@ -2,3 +2,4 @@ new branch test
 a new feature in the develop branch
 another commit in newFeature branch
 Changing something in develop to test release
+Another change in release
